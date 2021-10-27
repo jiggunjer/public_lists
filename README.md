@@ -1,4 +1,4 @@
-# List of reading materials
+# List of interesting materials
 
 ## Articles
 [Idea - OS Design](https://joshondesign.com/2017/08/18/idealos_essay)
@@ -17,3 +17,13 @@
 [Culture - Triggering literature](https://newrepublic.com/article/121790/life-triggering-best-literature-should-be-too)
 
 [Culture - AI/data abuse in voting](https://medium.com/join-scout/the-rise-of-the-weaponized-ai-propaganda-machine-86dac61668b)
+
+[Technology - Where is the Youtube for podcasts](https://medium.com/@_lindsayp/where-is-the-youtube-for-podcasts-144d71cfcdc)
+
+## Textbooks
+
+[Semiotics introduction](http://visual-memory.co.uk/daniel/Documents/S4B/sem01.html)
+
+## Podcasts
+
+[RTHK Cantonese](https://podcasts.rthk.hk/podcast/item.php?pid=45&eid=1545&lang=en-US)
