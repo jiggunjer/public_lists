@@ -1,8 +1,9 @@
-# List of interesting materials
+# Reading list
 
 ## Articles
 [Idea - OS Design](https://joshondesign.com/2017/08/18/idealos_essay)
 
+[Idea - Modelling as a hobby](https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm)
 
 [Joke - Help vampires](https://slash7.com/2006/12/22/vampires/)
 
@@ -20,10 +21,17 @@
 
 [Technology - Where is the Youtube for podcasts](https://medium.com/@_lindsayp/where-is-the-youtube-for-podcasts-144d71cfcdc)
 
-## Textbooks
+## Textbooks / courses
 
 [Semiotics introduction](http://visual-memory.co.uk/daniel/Documents/S4B/sem01.html)
+
+[Lightning network](https://github.com/lnbook/lnbook)
+
+[Homelab docker swarm](https://geek-cookbook.funkypenguin.co.nz/)
 
 ## Podcasts
 
 [RTHK Cantonese](https://podcasts.rthk.hk/podcast/item.php?pid=45&eid=1545&lang=en-US)
+
+
+
