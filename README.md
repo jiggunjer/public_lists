@@ -1,6 +1,14 @@
 # Reading list
 
 ## Articles
+[dropout](https://ranprieur.com/essays/dropout.html)
+
+[grant writing](https://austinhenley.com/blog/500kgrant.html)
+
+[Digital gardens](https://maggieappleton.com/garden-history)
+
+[Scifi short story mmacevedo](https://qntm.org/mmacevedo)
+
 [Idea - OS Design](https://joshondesign.com/2017/08/18/idealos_essay)
 
 [Idea - Modelling as a hobby](https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm)
@@ -28,6 +36,8 @@
 [Lightning network](https://github.com/lnbook/lnbook)
 
 [Homelab docker swarm](https://geek-cookbook.funkypenguin.co.nz/)
+
+[Machine learning](https://probml.github.io/pml-book/)
 
 ## Podcasts
 
